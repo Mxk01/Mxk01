@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Luntraru
 - 👀 I’m interested in coding in NodeJS and building backend apps
-- 🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently learning ReactJS  to expand and improve my apps
 - 💞️ I’m looking to collaborate on beginner backend projects
 - 📫 How to reach me : You can find me on discord #3884 
 
