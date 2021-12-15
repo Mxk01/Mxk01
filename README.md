@@ -2,7 +2,6 @@
  
 - 🌱 I’m currently learning ReactJS  to expand and improve my apps
 - 💞️ I’m looking to collaborate on beginner frontend/backend projects
-- 📫 How to reach me : You can find me on discord #3884 
 
 <!---
 Mxk01/Mxk01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
