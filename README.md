@@ -69,4 +69,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Mxk01">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Mxk01?tab=followers"><img src="https://img.shields.io/github/followers/Mxk01?label=Followers&style=social" alt="GitHub Badge"></a>
