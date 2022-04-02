@@ -43,12 +43,9 @@
 
   <br/>
     <a href="https://github.com/Mxk01/github-readme-stats"><img alt="Robert's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mxk01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Mxk01/github-readme-stats"><img alt="Mxk01 Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Mxk01/github-readme-stats"><img alt="Mxk01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxk01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
+   
 <br/>
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -56,7 +53,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## My profiles :
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/luntraru-robert-mihai-122aa4170/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
