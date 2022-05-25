@@ -5,7 +5,7 @@
  
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning C# .NET 
+- 🔭 I’m currently learning C# Blazor 
 
 - 🌱 I’m currently learning SQL
 
