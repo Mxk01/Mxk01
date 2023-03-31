@@ -5,10 +5,6 @@
  
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning C#  
-
-- 🌱 I’m currently learning SQL
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Some of my projects are available at **[My Portfolio](https://luntraru-robert-m-portofoliu.netlify.app/)**
