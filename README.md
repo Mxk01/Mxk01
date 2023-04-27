@@ -29,17 +29,6 @@
 
  <br />
 
-#
-
-#
-
-### 📊 Stats
-
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxk01&show_icons=true&theme=gruvbox)
-
-<!--  ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight](https://www.youtube.com/@dualcode8831/featured
 
 
 
