@@ -32,5 +32,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxk01&layout=compact)](https://github.com/Mxk01/github-readme-stats)
 
