@@ -29,10 +29,8 @@
 
  <br />
  
-<div style="display:flex">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxk01&hide_progress=true)](https://github.com/Mxk01/github-readme-stats)
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxk01&show_icons=true&theme=radical)
-</div>
 
 
 
