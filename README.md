@@ -3,9 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Robert</h1>
  
  
-## 🙋‍♂️ About Me
+##  About Me
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Some of my projects are available at **[My Portfolio](https://luntraru-robert-m-portofoliu.netlify.app/)**
 
