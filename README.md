@@ -7,7 +7,7 @@
 
 - I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Some of my projects are available at **[My Portfolio](https://luntraru-robert-m-portofoliu.netlify.app/)**
+- 👨‍💻 Some of my projects are available at **[My Portfolio](https://luntraru-robert-m-portofoliu.netlify.app/) I am actively working on a new portofolio.**
 
  
 
