@@ -4,9 +4,6 @@
  
  
 ##  About Me
-
-- I’m looking to collaborate on **OpenSource Projects**
-
 - 👨‍💻 Some of my projects are available at **[My Portfolio](https://luntraru-robert-m-portofoliu.netlify.app/) I am actively working on a new portofolio.**
 
  
@@ -28,9 +25,6 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
  <br />
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxk01&hide_progress=true)](https://github.com/Mxk01/github-readme-stats)
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxk01&show_icons=true&theme=radical)
 
 
 
