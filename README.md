@@ -4,7 +4,8 @@
  
  
 ##  About Me
-- 👨‍💻 Some of my projects are available at **[My Portfolio](https://luntraru-robert-m-portofoliu.netlify.app/) I am actively working on a new portofolio.**
+I am a software developer and I have a keen interest in new technologies and learning new skills.I enjoy trying different libraries and doing projects with them.For me software development is like a canvas where you have endless posibilities to paint it /be creative.
+- 👨‍💻 You can see my projects here :  **[My Portfolio](https://luntraru-robert-m-portofoliu.netlify.app/) I am actively working on a new portofolio.**
 
  
 
