@@ -4,8 +4,8 @@
  
  
 ##  About Me
-I am a software developer and I have a keen interest in new technologies and learning new skills.I enjoy trying different libraries and doing projects with them.For me software development is like a canvas where you have endless posibilities to paint it /be creative.
-- 👨‍💻 You can see my projects here :  **[My Portfolio](https://luntraru-robert-m-portofoliu.netlify.app/) I am actively working on a new portofolio.**
+I am a software developer and I have a keen interest in new technologies and learning new skills.I enjoy trying different libraries and doing projects with them.
+- 👨‍💻 You can see my projects here :  **[My Portfolio]([https://luntraru-robert-m-portofoliu.netlify.app/](https://luntraru-robert-mihai.vercel.app/)) I am actively working on a new portofolio.**
 
  
 ![Robert Mihai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxk01&show_icons=true&theme=transparent)
