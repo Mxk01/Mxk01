@@ -24,5 +24,5 @@ I am a software developer and I have a keen interest in new technologies and lea
 
  <br />
 
-
+[![Robert's languages stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mxk01)](https://github.com/Mxk01/github-readme-stats)
 
