@@ -24,4 +24,4 @@ I am a software developer and I have a keen interest in new technologies and lea
 
  <br />
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxk01&hide_progress=true)
