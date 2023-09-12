@@ -8,6 +8,10 @@ I am a software developer and I have a keen interest in new technologies and lea
  
 ![Robert Mihai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxk01&show_icons=true&theme=transparent)
 
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxk01&hide_progress=true)
+<br/>
 ### 🧰 Languages and Tools
 
 
@@ -23,5 +27,3 @@ I am a software developer and I have a keen interest in new technologies and lea
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
  <br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxk01&hide_progress=true)
